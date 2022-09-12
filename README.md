@@ -1,5 +1,5 @@
 
-<h1 align="center">ToDo App</h1>
+<h1 align="center">Django Rest Framework - Tutorial</h1>
 
 ## Overview
 
@@ -8,10 +8,11 @@ This is my first attempt to create an api. I used Django Rest Framework to creat
 ### Built With
 
 - Django
-- DRf (Drango Rest Framwork)
+- DRF (Drango Rest Framwork)
 
 ## How To Use
 
+```
 # Clone this repository
 $ git clone https://github.com/MSKose/drf-tutorial.git
 
@@ -28,4 +29,4 @@ $ git clone https://github.com/MSKose/drf-tutorial.git
 ```
 
 ## Acknowledgements
-- Tutorial from: [data-flair](https://data-flair.training/blogs/django-rest-framework/)
+- Tutorial source: [data-flair](https://data-flair.training/blogs/django-rest-framework/)
